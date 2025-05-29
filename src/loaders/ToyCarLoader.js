@@ -12,7 +12,8 @@ export default class ToyCarLoader {
         this.prizes = [];
     }
 
-    async loadFromAPI() {
+    async loadFromAPI(level = 1) {
+        console.log("🔄Cargando bloques para el nivel ${level}");
         try {
             const listRes = await fetch('/config/precisePhysicsModels.json');
             const precisePhysicsModels = await listRes.json();
@@ -21,9 +22,8 @@ export default class ToyCarLoader {
 
             try {
                 const apiUrl = import.meta.env.VITE_API_URL + '/api/blocks';
-                console.log('url:', apiUrl);
                 const res = await fetch(apiUrl);
-                console.log('Conectando a API:', res.data);
+
                 if (!res.ok) throw new Error('Conexión fallida');
 
                 blocks = await res.json();
@@ -31,7 +31,9 @@ export default class ToyCarLoader {
             } catch (apiError) {
                 console.warn('No se pudo conectar con la API. Cargando desde archivo local...');
                 const localRes = await fetch('/data/threejs_blocks.blocks.json');
-                blocks = await localRes.json();
+                let allBlocks = await localRes.json();
+                // Filtrar solo los bloques del nivel deseado (por ejemplo, level == 2)
+                blocks = allBlocks.filter(b => b.level === level);
                 console.log('Datos cargados desde archivo local:', blocks.length);
             }
 
