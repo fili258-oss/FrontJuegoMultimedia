@@ -1,0 +1,1812 @@
+[
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f05c"
+    },
+    "name": "palmtree_1",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f05d"
+    },
+    "name": "barn",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f05e"
+    },
+    "name": "bigbarn_window",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f05f"
+    },
+    "name": "silo",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f060"
+    },
+    "name": "towerwindmill_blades",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f061"
+    },
+    "name": "towerwindmill",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f062"
+    },
+    "name": "watertower",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f063"
+    },
+    "name": "palmtree_1.001",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f064"
+    },
+    "name": "palmtree_1.002",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f065"
+    },
+    "name": "palmtree_1.003",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f066"
+    },
+    "name": "palmtree_1.004",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f067"
+    },
+    "name": "palmtree_1.005",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f068"
+    },
+    "name": "palmtree_1.006",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f069"
+    },
+    "name": "palmtree_1.007",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f06a"
+    },
+    "name": "palmtree_1.008",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f06b"
+    },
+    "name": "palmtree_1.009",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f06c"
+    },
+    "name": "palmtree_1.010",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f06d"
+    },
+    "name": "palmtree_1.011",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f06e"
+    },
+    "name": "palmtree_1.012",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f06f"
+    },
+    "name": "palmtree_1.013",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f070"
+    },
+    "name": "palmtree_1.014",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f071"
+    },
+    "name": "palmtree_1.015",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f072"
+    },
+    "name": "palmtree_1.016",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f073"
+    },
+    "name": "palmtree_1.017",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f074"
+    },
+    "name": "rock_17",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f075"
+    },
+    "name": "rock_19",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f076"
+    },
+    "name": "bigrock3",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f077"
+    },
+    "name": "bigrock4",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f078"
+    },
+    "name": "bigrock5",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f079"
+    },
+    "name": "rock_10",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f07a"
+    },
+    "name": "rock_11",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f07b"
+    },
+    "name": "rock_14",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f07c"
+    },
+    "name": "low_poly_cuboid_rock_012",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f07d"
+    },
+    "name": "low_poly_cuboid_rock_006",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f07e"
+    },
+    "name": "simple_tree_5",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f07f"
+    },
+    "name": "simple_tree_5.001",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f080"
+    },
+    "name": "simple_tree_5.002",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f081"
+    },
+    "name": "bigrock4.001",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f082"
+    },
+    "name": "cylinder",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f083"
+    },
+    "name": "cylinder.001",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f084"
+    },
+    "name": "cube",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f085"
+    },
+    "name": "track-road-wide-corner-large",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f086"
+    },
+    "name": "track-road-wide-corner-small",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f087"
+    },
+    "name": "track-road-wide-straight",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f088"
+    },
+    "name": "track-striped-wide-straight-bump-up",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f089"
+    },
+    "name": "track-wide-corner-large",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f08a"
+    },
+    "name": "track-road-wide-straight.001",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f08b"
+    },
+    "name": "track-road-wide-corner-large.001",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f08c"
+    },
+    "name": "track-road-wide-corner-large.002",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f08d"
+    },
+    "name": "track-road-wide-straight.003",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f08e"
+    },
+    "name": "track-road-wide-corner-large.003",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f08f"
+    },
+    "name": "track-road-wide-corner-large.004",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f090"
+    },
+    "name": "track-road-wide-corner-large.005",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f091"
+    },
+    "name": "track-road-wide-corner-large.006",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f092"
+    },
+    "name": "chimney",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f093"
+    },
+    "name": "chimney_detailed",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f094"
+    },
+    "name": "hangar_roundb",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f095"
+    },
+    "name": "hangar_roundglass",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f096"
+    },
+    "name": "pipe_ringhigh",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f097"
+    },
+    "name": "pipe_ringhighend",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f098"
+    },
+    "name": "rocket_basea",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f099"
+    },
+    "name": "rocket_baseb",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f09a"
+    },
+    "name": "rocket_sidesb",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f09b"
+    },
+    "name": "coin_structure_detailed",
+    "x": -1,
+    "y": 1,
+    "z": -43,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f09c"
+    },
+    "name": "coin_structure_diagonal",
+    "x": -9,
+    "y": 1,
+    "z": 46,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f09d"
+    },
+    "name": "hangar_roundb.001",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f09e"
+    },
+    "name": "hangar_roundb.002",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f09f"
+    },
+    "name": "hangar_roundb.003",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0a0"
+    },
+    "name": "cilinder2",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0a1"
+    },
+    "name": "track-road-wide-corner-large.007",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0a2"
+    },
+    "name": "track-road-wide-corner-small.001",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0a3"
+    },
+    "name": "track-road-wide-straight.004",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0a4"
+    },
+    "name": "track-road-wide-corner-large.008",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0a5"
+    },
+    "name": "track-road-wide-corner-large.009",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0a6"
+    },
+    "name": "track-road-wide-straight.005",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0a7"
+    },
+    "name": "track-road-wide-straight.006",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0a8"
+    },
+    "name": "track-road-wide-straight.007",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0a9"
+    },
+    "name": "track-road-wide-straight.008",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0aa"
+    },
+    "name": "track-road-wide-corner-large.010",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0ab"
+    },
+    "name": "track-striped-wide-straight-bump-up.001",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0ac"
+    },
+    "name": "track-road-wide-corner-large.011",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0ad"
+    },
+    "name": "track-road-wide-straight.010",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0ae"
+    },
+    "name": "building_a",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0af"
+    },
+    "name": "path_a",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0b0"
+    },
+    "name": "track-road-wide-straight.011",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0b1"
+    },
+    "name": "track-road-wide-corner-large.012",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0b2"
+    },
+    "name": "track-road-wide-straight.012",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0b3"
+    },
+    "name": "track-road-wide-corner-large.013",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0b4"
+    },
+    "name": "track-road-wide-straight.013",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0b5"
+    },
+    "name": "track-road-wide-corner-large.014",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0b6"
+    },
+    "name": "track-road-wide-straight.014",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0b7"
+    },
+    "name": "track-road-wide-corner-large.015",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0b8"
+    },
+    "name": "track-road-wide-straight.015",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0b9"
+    },
+    "name": "track-road-wide-straight.016",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0ba"
+    },
+    "name": "track-road-wide-straight.017",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0bb"
+    },
+    "name": "track-road-wide-straight.018",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0bc"
+    },
+    "name": "track-road-wide-corner-large.016",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0bd"
+    },
+    "name": "track-wide-corner-large.001",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0be"
+    },
+    "name": "track-road-wide-corner-large.017",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0bf"
+    },
+    "name": "track-road-wide-corner-large.018",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0c0"
+    },
+    "name": "track-road-wide-corner-large.019",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0c1"
+    },
+    "name": "track-road-wide-corner-large.020",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0c2"
+    },
+    "name": "track-road-wide-straight.019",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0c3"
+    },
+    "name": "track-wide-corner-large.002",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0c4"
+    },
+    "name": "track-road-wide-corner-large.021",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0c5"
+    },
+    "name": "track-road-wide-straight.020",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0c6"
+    },
+    "name": "track-road-wide-straight.021",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0c7"
+    },
+    "name": "track-road-wide-straight.022",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0c8"
+    },
+    "name": "track-road-wide-corner-large.022",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0c9"
+    },
+    "name": "track-road-wide-straight.023",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0ca"
+    },
+    "name": "track-road-wide-corner-large.023",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0cb"
+    },
+    "name": "track-road-wide-straight.024",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0cc"
+    },
+    "name": "track-road-wide-straight.025",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0cd"
+    },
+    "name": "track-road-wide-straight.026",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0ce"
+    },
+    "name": "track-road-wide-corner-large.024",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0cf"
+    },
+    "name": "track-wide-corner-large.003",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0d0"
+    },
+    "name": "track-road-wide-corner-large.025",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0d1"
+    },
+    "name": "track-road-wide-straight.027",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0d2"
+    },
+    "name": "track-road-wide-straight.028",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0d3"
+    },
+    "name": "track-road-wide-corner-large.026",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0d4"
+    },
+    "name": "track-road-wide-straight.029",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0d5"
+    },
+    "name": "track-road-wide-straight.030",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0d6"
+    },
+    "name": "track-road-wide-straight.031",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0d7"
+    },
+    "name": "track-wide-corner-large.004",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0d8"
+    },
+    "name": "track-road-wide-corner-large.027",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0d9"
+    },
+    "name": "track-road-wide-straight.032",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0da"
+    },
+    "name": "tree-pine-large.006",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0db"
+    },
+    "name": "tree-pine-large.007",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0dc"
+    },
+    "name": "tree-pine-large.008",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0dd"
+    },
+    "name": "tree-pine-large.009",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0de"
+    },
+    "name": "tree-pine-large.010",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0df"
+    },
+    "name": "tree-pine-large.011",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0e0"
+    },
+    "name": "tree-pine-large.012",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0e1"
+    },
+    "name": "building_a.001",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0e2"
+    },
+    "name": "building_a.002",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0e3"
+    },
+    "name": "track-road-wide-corner-small.004",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0e4"
+    },
+    "name": "track-road-wide-corner-small.002",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0e5"
+    },
+    "name": "track-road-wide-corner-small.003",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0e6"
+    },
+    "name": "track-road-wide-straight.009",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0e7"
+    },
+    "name": "track-road-wide-straight.033",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0e8"
+    },
+    "name": "track-road-wide-straight.034",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0e9"
+    },
+    "name": "track-road-wide-straight.035",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0ea"
+    },
+    "name": "track-road-wide-straight.036",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0eb"
+    },
+    "name": "track-road-wide-straight.037",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0ec"
+    },
+    "name": "track-road-wide-straight.038",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0ed"
+    },
+    "name": "track-road-wide-straight.002",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0ee"
+    },
+    "name": "track-road-wide-straight.039",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0ef"
+    },
+    "name": "track-road-wide-straight.040",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0f0"
+    },
+    "name": "track-road-wide-straight.041",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0f1"
+    },
+    "name": "track-road-wide-straight.042",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0f2"
+    },
+    "name": "track-road-wide-straight.043",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0f3"
+    },
+    "name": "track-road-wide-straight.044",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0f4"
+    },
+    "name": "hangar_roundglass.001",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0f5"
+    },
+    "name": "hangar_roundglass.002",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0f6"
+    },
+    "name": "hangar_roundglass.003",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0f7"
+    },
+    "name": "hangar_roundglass.004",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0f8"
+    },
+    "name": "hangar_roundglass.005",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0f9"
+    },
+    "name": "hangar_roundglass.006",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0fa"
+    },
+    "name": "hangar_roundglass.007",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0fb"
+    },
+    "name": "hangar_roundglass.008",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0fc"
+    },
+    "name": "hangar_roundglass.009",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0fd"
+    },
+    "name": "hangar_roundglass.010",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0fe"
+    },
+    "name": "hangar_roundglass.011",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f0ff"
+    },
+    "name": "hangar_roundglass.012",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f100"
+    },
+    "name": "hangar_roundglass.013",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f101"
+    },
+    "name": "hangar_roundglass.014",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f102"
+    },
+    "name": "hangar_roundglass.015",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f103"
+    },
+    "name": "hangar_roundglass.016",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f104"
+    },
+    "name": "hangar_roundglass.017",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f101"
+    },
+    "name": "coin_structure_detailed",
+    "x": 25,
+    "y": 1,
+    "z": 38,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f102"
+    },
+    "name": "coin_structure_detailed",
+    "x": 16,
+    "y": 1,
+    "z": -39,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f103"
+    },
+    "name": "coin_structure_detailed",
+    "x": 27,
+    "y": 1,
+    "z": 7,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f104"
+    },
+    "name": "coin_structure_detailed",
+    "x": 1,
+    "y": 1,
+    "z": -8,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f105"
+    },
+    "name": "coin_structure_detailed",
+    "x": 44,
+    "y": 1,
+    "z": -3,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f106"
+    },
+    "name": "coin_structure_detailed",
+    "x": -48,
+    "y": 1,
+    "z": 16,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f107"
+    },
+    "name": "coin_structure_detailed",
+    "x": -49,
+    "y": 1,
+    "z": -15,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f108"
+    },
+    "name": "coin_structure_detailed",
+    "x": -40,
+    "y": 1,
+    "z": -12,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f109"
+    },
+    "name": "coin_structure_detailed",
+    "x": 7,
+    "y": 1,
+    "z": -17,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f10a"
+    },
+    "name": "coin_structure_detailed",
+    "x": 37,
+    "y": 1,
+    "z": -42,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f10b"
+    },
+    "name": "coin_structure_detailed",
+    "x": 47,
+    "y": 1,
+    "z": -27,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6802db8235c8c69e43d3f10c"
+    },
+    "name": "coin_structure_detailed",
+    "x": 32,
+    "y": 1,
+    "z": -15,
+    "__v": 0
+  }
+]
