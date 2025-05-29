@@ -76,7 +76,7 @@ Esto permite mantener un flujo ordenado y facilitar la comunicación entre compo
 
 1. Clona este repositorio:
 ```bash
-git clone https://github.com/tu-usuario/game-project.git
+git clone https://github.com/fili258-oss/FrontJuegoMultimedia.git
 cd game-project
 ```
 
