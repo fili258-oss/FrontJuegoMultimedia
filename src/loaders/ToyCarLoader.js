@@ -51,14 +51,8 @@ export default class ToyCarLoader {
 
     async loadFromURL(apiUrl) {
         let blocks = [];    
-
-        try {
-            const listRes = await fetch('/config/precisePhysicsModels.json');
-            const precisePhysicsModels = await listRes.json();
-        } catch (err) {
-            console.error('Error al cargar lista de modelos Trimesh:', err);
-            return;
-        }
+        const listRes = await fetch('/config/precisePhysicsModels.json');
+        const precisePhysicsModels = await listRes.json();
         
         try {            
             
