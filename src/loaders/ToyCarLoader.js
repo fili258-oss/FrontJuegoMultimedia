@@ -12,9 +12,9 @@ export default class ToyCarLoader {
         this.prizes = [];
     }
 
-    async loadFromAPI(level = 1) {
-        console.log("🔄Cargando bloques para el nivel ${level}");
+    async loadFromAPI() {
         try {
+            
             const listRes = await fetch('/config/precisePhysicsModels.json');
             const precisePhysicsModels = await listRes.json();
 
@@ -22,8 +22,9 @@ export default class ToyCarLoader {
 
             try {
                 const apiUrl = import.meta.env.VITE_API_URL + '/api/blocks';
+                console.log('url:', apiUrl);
                 const res = await fetch(apiUrl);
-
+                console.log('Conectando a API:', res.data);
                 if (!res.ok) throw new Error('Conexión fallida');
 
                 blocks = await res.json();
@@ -31,10 +32,15 @@ export default class ToyCarLoader {
             } catch (apiError) {
                 console.warn('No se pudo conectar con la API. Cargando desde archivo local...');
                 const localRes = await fetch('/data/threejs_blocks.blocks.json');
-                let allBlocks = await localRes.json();
-                // Filtrar solo los bloques del nivel deseado (por ejemplo, level == 2)
-                blocks = allBlocks.filter(b => b.level === level);
-                console.log('Datos cargados desde archivo local:', blocks.length);
+                blocks = await localRes.json();
+
+                // Filtrar por nivel actual
+                const currentLevel = this.experience.world.levelManager.currentLevel;
+                const filteredBlocks = blocks.filter(block => block.level === currentLevel);
+                
+                console.log(`Filtered to ${filteredBlocks.length} blocks for level ${currentLevel}`);
+                
+                blocks = filteredBlocks;
             }
 
             this._processBlocks(blocks, precisePhysicsModels);
@@ -44,20 +50,40 @@ export default class ToyCarLoader {
     }
 
     async loadFromURL(apiUrl) {
+        let blocks = [];    
+
         try {
             const listRes = await fetch('/config/precisePhysicsModels.json');
             const precisePhysicsModels = await listRes.json();
-
+        } catch (err) {
+            console.error('Error al cargar lista de modelos Trimesh:', err);
+            return;
+        }
+        
+        try {            
+            
             const res = await fetch(apiUrl);
             if (!res.ok) throw new Error('Conexión fallida al cargar bloques de nivel.');
 
             const blocks = await res.json();
             console.log(`📦 Bloques cargados (${blocks.length}) desde ${apiUrl}`);
-
-            this._processBlocks(blocks, precisePhysicsModels);
+                                                
         } catch (err) {
-            console.error('Error al cargar bloques desde URL:', err);
+            console.log('Error al cargar bloques desde URL:');
+            console.warn('No se pudo conectar con la API. Cargando desde archivo local...');
+            const localRes = await fetch('/data/threejs_blocks.blocks.json');
+            blocks = await localRes.json();
+
+            // Filtrar por nivel actual
+            const currentLevel = this.experience.world.levelManager.currentLevel;
+            const filteredBlocks = blocks.filter(block => block.level === currentLevel);
+            
+            console.log(`Filtered to ${filteredBlocks.length} blocks for level ${currentLevel}`);
+            
+            blocks = filteredBlocks;            
         }
+
+        this._processBlocks(blocks, precisePhysicsModels);
     }
 
     _processBlocks(blocks, precisePhysicsModels) {

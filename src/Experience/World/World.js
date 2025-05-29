@@ -178,10 +178,10 @@ export default class World {
     }
 
     async loadLevel(level) {
+        const backendUrl = import.meta.env.VITE_BACKEND_URL || 'http://localhost:3001';
+        const apiUrl = `${backendUrl}/api/blocks?level=${level}`;
         try {
-            const backendUrl = import.meta.env.VITE_BACKEND_URL || 'http://localhost:3001';
-            const apiUrl = `${backendUrl}/api/blocks?level=${level}`;
-
+            
             const res = await fetch(apiUrl);
             const data = await res.json();
 
@@ -208,7 +208,9 @@ export default class World {
 
             console.log(`✅ Nivel ${level} cargado con spawn en`, spawnPoint);
         } catch (error) {
-            console.error('❌ Error cargando nivel:', error);
+
+            console.log('❌ Error cargando nivel:');
+            await this.loader.loadFromURL(apiUrl);
         }
     }
 
