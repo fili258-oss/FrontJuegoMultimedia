@@ -1,1812 +1,3962 @@
 [
   {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f05c"
-    },
-    "name": "palmtree_1",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f05d"
-    },
-    "name": "barn",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f05e"
-    },
-    "name": "bigbarn_window",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f05f"
-    },
-    "name": "silo",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f060"
-    },
-    "name": "towerwindmill_blades",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f061"
-    },
-    "name": "towerwindmill",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f062"
-    },
-    "name": "watertower",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f063"
-    },
-    "name": "palmtree_1.001",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f064"
-    },
-    "name": "palmtree_1.002",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f065"
-    },
-    "name": "palmtree_1.003",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f066"
-    },
-    "name": "palmtree_1.004",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f067"
-    },
-    "name": "palmtree_1.005",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f068"
-    },
-    "name": "palmtree_1.006",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f069"
-    },
-    "name": "palmtree_1.007",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f06a"
-    },
-    "name": "palmtree_1.008",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f06b"
-    },
-    "name": "palmtree_1.009",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f06c"
-    },
-    "name": "palmtree_1.010",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f06d"
-    },
-    "name": "palmtree_1.011",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f06e"
-    },
-    "name": "palmtree_1.012",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f06f"
-    },
-    "name": "palmtree_1.013",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f070"
-    },
-    "name": "palmtree_1.014",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f071"
-    },
-    "name": "palmtree_1.015",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f072"
-    },
-    "name": "palmtree_1.016",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f073"
-    },
-    "name": "palmtree_1.017",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f074"
-    },
-    "name": "rock_17",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f075"
-    },
-    "name": "rock_19",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f076"
-    },
-    "name": "bigrock3",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f077"
-    },
-    "name": "bigrock4",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f078"
-    },
-    "name": "bigrock5",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f079"
-    },
-    "name": "rock_10",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f07a"
-    },
-    "name": "rock_11",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f07b"
-    },
-    "name": "rock_14",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f07c"
-    },
-    "name": "low_poly_cuboid_rock_012",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f07d"
-    },
-    "name": "low_poly_cuboid_rock_006",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f07e"
-    },
-    "name": "simple_tree_5",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f07f"
-    },
-    "name": "simple_tree_5.001",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f080"
-    },
-    "name": "simple_tree_5.002",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f081"
-    },
-    "name": "bigrock4.001",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f082"
-    },
-    "name": "cylinder",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f083"
-    },
-    "name": "cylinder.001",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f084"
-    },
-    "name": "cube",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f085"
-    },
-    "name": "track-road-wide-corner-large",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f086"
-    },
-    "name": "track-road-wide-corner-small",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f087"
-    },
-    "name": "track-road-wide-straight",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f088"
-    },
-    "name": "track-striped-wide-straight-bump-up",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f089"
-    },
-    "name": "track-wide-corner-large",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f08a"
-    },
-    "name": "track-road-wide-straight.001",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f08b"
-    },
-    "name": "track-road-wide-corner-large.001",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f08c"
-    },
-    "name": "track-road-wide-corner-large.002",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f08d"
-    },
-    "name": "track-road-wide-straight.003",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f08e"
-    },
-    "name": "track-road-wide-corner-large.003",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f08f"
-    },
-    "name": "track-road-wide-corner-large.004",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f090"
-    },
-    "name": "track-road-wide-corner-large.005",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f091"
-    },
-    "name": "track-road-wide-corner-large.006",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f092"
-    },
-    "name": "chimney",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f093"
-    },
-    "name": "chimney_detailed",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f094"
-    },
-    "name": "hangar_roundb",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f095"
-    },
-    "name": "hangar_roundglass",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f096"
-    },
-    "name": "pipe_ringhigh",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f097"
-    },
-    "name": "pipe_ringhighend",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f098"
-    },
-    "name": "rocket_basea",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f099"
-    },
-    "name": "rocket_baseb",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f09a"
-    },
-    "name": "rocket_sidesb",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f09b"
-    },
-    "name": "coin_structure_detailed",
-    "x": -1,
-    "y": 1,
-    "z": -43,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f09c"
-    },
-    "name": "coin_structure_diagonal",
-    "x": -9,
-    "y": 1,
-    "z": 46,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f09d"
-    },
-    "name": "hangar_roundb.001",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f09e"
-    },
-    "name": "hangar_roundb.002",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f09f"
-    },
-    "name": "hangar_roundb.003",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0a0"
-    },
-    "name": "cilinder2",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0a1"
-    },
-    "name": "track-road-wide-corner-large.007",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0a2"
-    },
-    "name": "track-road-wide-corner-small.001",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0a3"
-    },
-    "name": "track-road-wide-straight.004",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0a4"
-    },
-    "name": "track-road-wide-corner-large.008",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0a5"
-    },
-    "name": "track-road-wide-corner-large.009",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0a6"
-    },
-    "name": "track-road-wide-straight.005",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0a7"
-    },
-    "name": "track-road-wide-straight.006",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0a8"
-    },
-    "name": "track-road-wide-straight.007",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0a9"
-    },
-    "name": "track-road-wide-straight.008",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0aa"
-    },
-    "name": "track-road-wide-corner-large.010",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0ab"
-    },
-    "name": "track-striped-wide-straight-bump-up.001",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0ac"
-    },
-    "name": "track-road-wide-corner-large.011",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0ad"
-    },
-    "name": "track-road-wide-straight.010",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0ae"
-    },
-    "name": "building_a",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0af"
-    },
-    "name": "path_a",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0b0"
-    },
-    "name": "track-road-wide-straight.011",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0b1"
-    },
-    "name": "track-road-wide-corner-large.012",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0b2"
-    },
-    "name": "track-road-wide-straight.012",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0b3"
-    },
-    "name": "track-road-wide-corner-large.013",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0b4"
-    },
-    "name": "track-road-wide-straight.013",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0b5"
-    },
-    "name": "track-road-wide-corner-large.014",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0b6"
-    },
-    "name": "track-road-wide-straight.014",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0b7"
-    },
-    "name": "track-road-wide-corner-large.015",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0b8"
-    },
-    "name": "track-road-wide-straight.015",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0b9"
-    },
-    "name": "track-road-wide-straight.016",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0ba"
-    },
-    "name": "track-road-wide-straight.017",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0bb"
-    },
-    "name": "track-road-wide-straight.018",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0bc"
-    },
-    "name": "track-road-wide-corner-large.016",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0bd"
-    },
-    "name": "track-wide-corner-large.001",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0be"
-    },
-    "name": "track-road-wide-corner-large.017",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0bf"
-    },
-    "name": "track-road-wide-corner-large.018",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0c0"
-    },
-    "name": "track-road-wide-corner-large.019",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0c1"
-    },
-    "name": "track-road-wide-corner-large.020",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0c2"
-    },
-    "name": "track-road-wide-straight.019",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0c3"
-    },
-    "name": "track-wide-corner-large.002",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0c4"
-    },
-    "name": "track-road-wide-corner-large.021",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0c5"
-    },
-    "name": "track-road-wide-straight.020",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0c6"
-    },
-    "name": "track-road-wide-straight.021",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0c7"
-    },
-    "name": "track-road-wide-straight.022",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0c8"
-    },
-    "name": "track-road-wide-corner-large.022",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0c9"
-    },
-    "name": "track-road-wide-straight.023",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0ca"
-    },
-    "name": "track-road-wide-corner-large.023",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0cb"
-    },
-    "name": "track-road-wide-straight.024",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0cc"
-    },
-    "name": "track-road-wide-straight.025",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0cd"
-    },
-    "name": "track-road-wide-straight.026",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0ce"
-    },
-    "name": "track-road-wide-corner-large.024",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0cf"
-    },
-    "name": "track-wide-corner-large.003",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0d0"
-    },
-    "name": "track-road-wide-corner-large.025",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0d1"
-    },
-    "name": "track-road-wide-straight.027",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0d2"
-    },
-    "name": "track-road-wide-straight.028",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0d3"
-    },
-    "name": "track-road-wide-corner-large.026",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0d4"
-    },
-    "name": "track-road-wide-straight.029",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0d5"
-    },
-    "name": "track-road-wide-straight.030",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0d6"
-    },
-    "name": "track-road-wide-straight.031",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0d7"
-    },
-    "name": "track-wide-corner-large.004",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0d8"
-    },
-    "name": "track-road-wide-corner-large.027",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0d9"
-    },
-    "name": "track-road-wide-straight.032",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0da"
-    },
-    "name": "tree-pine-large.006",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0db"
-    },
-    "name": "tree-pine-large.007",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0dc"
-    },
-    "name": "tree-pine-large.008",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0dd"
-    },
-    "name": "tree-pine-large.009",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0de"
-    },
-    "name": "tree-pine-large.010",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0df"
-    },
-    "name": "tree-pine-large.011",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0e0"
-    },
-    "name": "tree-pine-large.012",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0e1"
-    },
-    "name": "building_a.001",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0e2"
-    },
-    "name": "building_a.002",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0e3"
-    },
-    "name": "track-road-wide-corner-small.004",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0e4"
-    },
-    "name": "track-road-wide-corner-small.002",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0e5"
-    },
-    "name": "track-road-wide-corner-small.003",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0e6"
-    },
-    "name": "track-road-wide-straight.009",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0e7"
-    },
-    "name": "track-road-wide-straight.033",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0e8"
-    },
-    "name": "track-road-wide-straight.034",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0e9"
-    },
-    "name": "track-road-wide-straight.035",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0ea"
-    },
-    "name": "track-road-wide-straight.036",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0eb"
-    },
-    "name": "track-road-wide-straight.037",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0ec"
-    },
-    "name": "track-road-wide-straight.038",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0ed"
-    },
-    "name": "track-road-wide-straight.002",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0ee"
-    },
-    "name": "track-road-wide-straight.039",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0ef"
-    },
-    "name": "track-road-wide-straight.040",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0f0"
-    },
-    "name": "track-road-wide-straight.041",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0f1"
-    },
-    "name": "track-road-wide-straight.042",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0f2"
-    },
-    "name": "track-road-wide-straight.043",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0f3"
-    },
-    "name": "track-road-wide-straight.044",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0f4"
-    },
-    "name": "hangar_roundglass.001",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0f5"
-    },
-    "name": "hangar_roundglass.002",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0f6"
-    },
-    "name": "hangar_roundglass.003",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0f7"
-    },
-    "name": "hangar_roundglass.004",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0f8"
-    },
-    "name": "hangar_roundglass.005",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0f9"
-    },
-    "name": "hangar_roundglass.006",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0fa"
-    },
-    "name": "hangar_roundglass.007",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0fb"
-    },
-    "name": "hangar_roundglass.008",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0fc"
-    },
-    "name": "hangar_roundglass.009",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0fd"
-    },
-    "name": "hangar_roundglass.010",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0fe"
-    },
-    "name": "hangar_roundglass.011",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f0ff"
-    },
-    "name": "hangar_roundglass.012",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f100"
-    },
-    "name": "hangar_roundglass.013",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f101"
-    },
-    "name": "hangar_roundglass.014",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f102"
-    },
-    "name": "hangar_roundglass.015",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f103"
-    },
-    "name": "hangar_roundglass.016",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f104"
-    },
-    "name": "hangar_roundglass.017",
-    "x": 0,
-    "y": 0,
-    "z": 0,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f101"
-    },
-    "name": "coin_structure_detailed",
-    "x": 25,
-    "y": 1,
-    "z": 38,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f102"
-    },
-    "name": "coin_structure_detailed",
-    "x": 16,
-    "y": 1,
-    "z": -39,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f103"
-    },
-    "name": "coin_structure_detailed",
-    "x": 27,
-    "y": 1,
-    "z": 7,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f104"
-    },
-    "name": "coin_structure_detailed",
-    "x": 1,
-    "y": 1,
-    "z": -8,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f105"
-    },
-    "name": "coin_structure_detailed",
-    "x": 44,
-    "y": 1,
-    "z": -3,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f106"
-    },
-    "name": "coin_structure_detailed",
-    "x": -48,
-    "y": 1,
-    "z": 16,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f107"
-    },
-    "name": "coin_structure_detailed",
-    "x": -49,
-    "y": 1,
-    "z": -15,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f108"
-    },
-    "name": "coin_structure_detailed",
-    "x": -40,
-    "y": 1,
-    "z": -12,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f109"
-    },
-    "name": "coin_structure_detailed",
-    "x": 7,
-    "y": 1,
-    "z": -17,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f10a"
-    },
-    "name": "coin_structure_detailed",
-    "x": 37,
-    "y": 1,
-    "z": -42,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f10b"
-    },
-    "name": "coin_structure_detailed",
-    "x": 47,
-    "y": 1,
-    "z": -27,
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "6802db8235c8c69e43d3f10c"
-    },
-    "name": "coin_structure_detailed",
-    "x": 32,
-    "y": 1,
-    "z": -15,
-    "__v": 0
-  }
+  "_id": {
+    "$oid": "6829f633422ecd6869a53316"
+  },
+  "name": "palmtree_1_lev1",
+  "x": -23.778329849243164,
+  "y": 3.686021089553833,
+  "z": 27.707799911499023,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53317"
+  },
+  "name": "barn_lev1",
+  "x": 6.955288410186768,
+  "y": 2.5614562034606934,
+  "z": -43.83543395996094,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53318"
+  },
+  "name": "bigbarn_window_lev1",
+  "x": 43.58943176269531,
+  "y": 3.834841012954712,
+  "z": -18.336727142333984,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53319"
+  },
+  "name": "silo_lev1",
+  "x": -23.563480377197266,
+  "y": 4.215974807739258,
+  "z": 9.997547149658203,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a5331a"
+  },
+  "name": "towerwindmill_lev1",
+  "x": 40.31098556518555,
+  "y": 3.25635027885437,
+  "z": -32.21475601196289,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a5331b"
+  },
+  "name": "palmtree_1.001_lev1",
+  "x": -20.077552795410156,
+  "y": 3.686021089553833,
+  "z": 27.703384399414062,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a5331c"
+  },
+  "name": "palmtree_1.002_lev1",
+  "x": -16.97005844116211,
+  "y": 3.686021089553833,
+  "z": 27.63019561767578,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a5331d"
+  },
+  "name": "palmtree_1.003_lev1",
+  "x": -13.227862358093262,
+  "y": 3.686021089553833,
+  "z": 27.703384399414062,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a5331e"
+  },
+  "name": "palmtree_1.004_lev1",
+  "x": -9.875333786010742,
+  "y": 3.686021089553833,
+  "z": 27.745529174804688,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a5331f"
+  },
+  "name": "palmtree_1.005_lev1",
+  "x": -6.107265949249268,
+  "y": 3.686021089553833,
+  "z": 27.66466522216797,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53320"
+  },
+  "name": "palmtree_1.006_lev1",
+  "x": -2.395172357559204,
+  "y": 3.686021089553833,
+  "z": 27.499561309814453,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53321"
+  },
+  "name": "palmtree_1.007_lev1",
+  "x": 0.9746201634407043,
+  "y": 3.686021089553833,
+  "z": 27.703384399414062,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53322"
+  },
+  "name": "palmtree_1.008_lev1",
+  "x": 4.419210910797119,
+  "y": 3.686021089553833,
+  "z": 27.6185302734375,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53323"
+  },
+  "name": "palmtree_1.009_lev1",
+  "x": -23.67656707763672,
+  "y": 3.686021089553833,
+  "z": 36.80203628540039,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53324"
+  },
+  "name": "palmtree_1.010_lev1",
+  "x": -19.97091293334961,
+  "y": 3.686021089553833,
+  "z": 36.68283462524414,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53325"
+  },
+  "name": "palmtree_1.011_lev1",
+  "x": -16.488039016723633,
+  "y": 3.686021089553833,
+  "z": 36.68283462524414,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53326"
+  },
+  "name": "palmtree_1.012_lev1",
+  "x": -13.1234769821167,
+  "y": 3.686021089553833,
+  "z": 36.69184875488281,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53327"
+  },
+  "name": "palmtree_1.013_lev1",
+  "x": -9.67893123626709,
+  "y": 3.686021089553833,
+  "z": 36.39755630493164,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53328"
+  },
+  "name": "palmtree_1.014_lev1",
+  "x": -6.181765556335449,
+  "y": 3.686021089553833,
+  "z": 36.330055236816406,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53329"
+  },
+  "name": "palmtree_1.015_lev1",
+  "x": -2.6234982013702393,
+  "y": 3.686021089553833,
+  "z": 36.35969161987305,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a5332a"
+  },
+  "name": "palmtree_1.016_lev1",
+  "x": 0.7533167004585266,
+  "y": 3.686021089553833,
+  "z": 36.87965393066406,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a5332b"
+  },
+  "name": "palmtree_1.017_lev1",
+  "x": 4.2120866775512695,
+  "y": 3.686021089553833,
+  "z": 36.8878059387207,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a5332c"
+  },
+  "name": "rock_17_lev1",
+  "x": 16.844806671142578,
+  "y": 0.7448527216911316,
+  "z": -17.05306625366211,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a5332d"
+  },
+  "name": "rock_19_lev1",
+  "x": 45.90074920654297,
+  "y": 3.0191805362701416,
+  "z": -47.18536376953125,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a5332e"
+  },
+  "name": "bigrock3_lev1",
+  "x": 22.307937622070312,
+  "y": 4.057489395141602,
+  "z": -44.738075256347656,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a5332f"
+  },
+  "name": "bigrock4_lev1",
+  "x": -36.855812072753906,
+  "y": 6.744661331176758,
+  "z": -37.41548156738281,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53330"
+  },
+  "name": "bigrock5_lev1",
+  "x": -23.052959442138672,
+  "y": 5.121560573577881,
+  "z": -39.45159149169922,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53331"
+  },
+  "name": "rock_10_lev1",
+  "x": -17.46604347229004,
+  "y": 1.0138362646102905,
+  "z": 17.154233932495117,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53332"
+  },
+  "name": "rock_11_lev1",
+  "x": -31.15018081665039,
+  "y": 1.0429036617279053,
+  "z": 44.865272521972656,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53333"
+  },
+  "name": "rock_14_lev1",
+  "x": -44.82685470581055,
+  "y": 0.3921384811401367,
+  "z": -26.695261001586914,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53334"
+  },
+  "name": "low_poly_cuboid_rock_012_lev1",
+  "x": -40.8675422668457,
+  "y": 4.918263912200928,
+  "z": 39.93944549560547,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53335"
+  },
+  "name": "low_poly_cuboid_rock_006_lev1",
+  "x": 7.107580184936523,
+  "y": 0.9153618216514587,
+  "z": 29.101612091064453,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53336"
+  },
+  "name": "simple_tree_5_lev1",
+  "x": -6.909688949584961,
+  "y": 3.344006299972534,
+  "z": -39.420196533203125,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53337"
+  },
+  "name": "simple_tree_5.001_lev1",
+  "x": -5.047195911407471,
+  "y": 3.344006299972534,
+  "z": -33.36029815673828,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53338"
+  },
+  "name": "simple_tree_5.002_lev1",
+  "x": 35.912086486816406,
+  "y": 3.344006299972534,
+  "z": -46.78245162963867,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53339"
+  },
+  "name": "bigrock4.001_lev1",
+  "x": 42.48072052001953,
+  "y": 4.759893417358398,
+  "z": 31.20084571838379,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a5333a"
+  },
+  "name": "plane_lev1",
+  "x": -0.45347023010253906,
+  "y": 0.14174017310142517,
+  "z": -0.6161441802978516,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a5333b"
+  },
+  "name": "cylinder.001_lev1",
+  "x": 47.8759880065918,
+  "y": 1.1313097476959229,
+  "z": -5.395684242248535,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a5333c"
+  },
+  "name": "baked_lev1",
+  "x": 41.03361511230469,
+  "y": 0.3423145115375519,
+  "z": 41.3490104675293,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a5333d"
+  },
+  "name": "rock_11.001_lev1",
+  "x": 47.3577880859375,
+  "y": 1.0429036617279053,
+  "z": 45.53399658203125,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a5333e"
+  },
+  "name": "cylinder.002_lev1",
+  "x": 33.297847747802734,
+  "y": 1.1313097476959229,
+  "z": 35.59698486328125,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a5333f"
+  },
+  "name": "track-road-wide-corner-large_lev1",
+  "x": 2.177489995956421,
+  "y": 0.2825482487678528,
+  "z": 11.185120582580566,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53340"
+  },
+  "name": "track-road-wide-corner-small_lev1",
+  "x": 34.23968505859375,
+  "y": 0.2707436680793762,
+  "z": 23.176734924316406,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53341"
+  },
+  "name": "track-road-wide-straight_lev1",
+  "x": 3.8215787410736084,
+  "y": 0.27074310183525085,
+  "z": 7.306259632110596,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53342"
+  },
+  "name": "track-striped-wide-straight-bump-up_lev1",
+  "x": -11.349031448364258,
+  "y": 0.4455040991306305,
+  "z": 6.880838871002197,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53343"
+  },
+  "name": "track-wide-corner-large_lev1",
+  "x": 4.51077127456665,
+  "y": 0.301742821931839,
+  "z": -6.041224956512451,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53344"
+  },
+  "name": "track-road-wide-straight.001_lev1",
+  "x": -3.8559701442718506,
+  "y": 0.2707436680793762,
+  "z": 12.80019760131836,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53345"
+  },
+  "name": "track-road-wide-corner-large.001_lev1",
+  "x": -9.73382568359375,
+  "y": 0.2825482487678528,
+  "z": 11.128686904907227,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53346"
+  },
+  "name": "track-road-wide-corner-large.002_lev1",
+  "x": -9.774055480957031,
+  "y": 0.2825482487678528,
+  "z": -18.17243003845215,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53347"
+  },
+  "name": "track-road-wide-straight.003_lev1",
+  "x": 31.094478607177734,
+  "y": 0.2707436680793762,
+  "z": 24.026456832885742,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53348"
+  },
+  "name": "track-road-wide-corner-large.003_lev1",
+  "x": 36.91184616088867,
+  "y": 0.2825482487678528,
+  "z": 16.792430877685547,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53349"
+  },
+  "name": "track-road-wide-corner-large.004_lev1",
+  "x": 4.5422563552856445,
+  "y": 0.2825482487678528,
+  "z": -10.719280242919922,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a5334a"
+  },
+  "name": "track-road-wide-corner-large.005_lev1",
+  "x": -0.17146918177604675,
+  "y": 0.2825482487678528,
+  "z": -2.764988660812378,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a5334b"
+  },
+  "name": "track-road-wide-corner-large.006_lev1",
+  "x": 2.3381195068359375,
+  "y": 0.2825482487678528,
+  "z": 3.378680467605591,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a5334c"
+  },
+  "name": "chimney_lev1",
+  "x": -3.2960472106933594,
+  "y": 1.4165441989898682,
+  "z": 5.890292167663574,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a5334d"
+  },
+  "name": "chimney_detailed_lev1",
+  "x": 16.921873092651367,
+  "y": 1.298897624015808,
+  "z": 10.784274101257324,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a5334e"
+  },
+  "name": "hangar_roundb_lev1",
+  "x": 8.68012523651123,
+  "y": 1.1211260557174683,
+  "z": 2.6931896209716797,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a5334f"
+  },
+  "name": "hangar_roundglass_lev1",
+  "x": 4.165138244628906,
+  "y": 0.46470707654953003,
+  "z": 27.526866912841797,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53350"
+  },
+  "name": "pipe_ringhigh_lev1",
+  "x": -4.002159118652344,
+  "y": 1.15077543258667,
+  "z": -1.4777265787124634,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53351"
+  },
+  "name": "pipe_ringhighend_lev1",
+  "x": -19.77686882019043,
+  "y": 0.8551033139228821,
+  "z": -7.141472816467285,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53352"
+  },
+  "name": "rocket_basea_lev1",
+  "x": -5.9890875816345215,
+  "y": 0.8828524351119995,
+  "z": 9.691668510437012,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53353"
+  },
+  "name": "rocket_baseb_lev1",
+  "x": -5.674877643585205,
+  "y": 0.8212589621543884,
+  "z": -5.283523082733154,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53354"
+  },
+  "name": "rocket_sidesb_lev1",
+  "x": 8.687910079956055,
+  "y": 0.6769027709960938,
+  "z": 11.150145530700684,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53355"
+  },
+  "name": "hangar_roundb.001_lev1",
+  "x": 6.7341532707214355,
+  "y": 1.1142476797103882,
+  "z": -14.818037986755371,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53356"
+  },
+  "name": "hangar_roundb.002_lev1",
+  "x": 13.278584480285645,
+  "y": 1.1054943799972534,
+  "z": -8.880574226379395,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53357"
+  },
+  "name": "hangar_roundb.003_lev1",
+  "x": -5.289616107940674,
+  "y": 1.193867802619934,
+  "z": -12.451115608215332,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53358"
+  },
+  "name": "cilinder2_lev1",
+  "x": 29.62061309814453,
+  "y": 2.276653528213501,
+  "z": 45.65386962890625,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53359"
+  },
+  "name": "track-road-wide-corner-large.007_lev1",
+  "x": -5.187526226043701,
+  "y": 0.30086028575897217,
+  "z": -21.481916427612305,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a5335a"
+  },
+  "name": "track-road-wide-corner-small.001_lev1",
+  "x": -12.378214836120605,
+  "y": 0.3191072642803192,
+  "z": -22.697542190551758,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a5335b"
+  },
+  "name": "track-road-wide-straight.004_lev1",
+  "x": -15.51918888092041,
+  "y": 0.3191072642803192,
+  "z": -21.831798553466797,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a5335c"
+  },
+  "name": "track-road-wide-corner-large.008_lev1",
+  "x": -9.873032569885254,
+  "y": 0.33091071248054504,
+  "z": -26.202190399169922,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a5335d"
+  },
+  "name": "track-road-wide-corner-large.009_lev1",
+  "x": -5.162866115570068,
+  "y": 0.33091071248054504,
+  "z": -26.176225662231445,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a5335e"
+  },
+  "name": "track-road-wide-straight.005_lev1",
+  "x": -3.8559701442718506,
+  "y": 0.2707436680793762,
+  "z": 12.80019760131836,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a5335f"
+  },
+  "name": "track-road-wide-straight.006_lev1",
+  "x": -21.179580688476562,
+  "y": 0.2707436680793762,
+  "z": -21.828231811523438,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53360"
+  },
+  "name": "track-road-wide-straight.007_lev1",
+  "x": -28.496583938598633,
+  "y": 0.2707436680793762,
+  "z": -21.828231811523438,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53361"
+  },
+  "name": "track-road-wide-straight.008_lev1",
+  "x": -35.85401916503906,
+  "y": 0.2707436680793762,
+  "z": -21.828231811523438,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53362"
+  },
+  "name": "track-road-wide-corner-large.010_lev1",
+  "x": -41.768917083740234,
+  "y": 0.2825482487678528,
+  "z": -20.11858558654785,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53363"
+  },
+  "name": "track-striped-wide-straight-bump-up.001_lev1",
+  "x": -43.321414947509766,
+  "y": 0.45692920684814453,
+  "z": 4.272789001464844,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53364"
+  },
+  "name": "track-road-wide-corner-large.011_lev1",
+  "x": -41.71397018432617,
+  "y": 0.2939738631248474,
+  "z": 8.589739799499512,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53365"
+  },
+  "name": "track-road-wide-straight.010_lev1",
+  "x": -35.789451599121094,
+  "y": 0.2821703255176544,
+  "z": 10.261275291442871,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53366"
+  },
+  "name": "building_a_lev1",
+  "x": -20.5752010345459,
+  "y": 2.1527860164642334,
+  "z": -16.714866638183594,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53367"
+  },
+  "name": "track-road-wide-straight.011_lev1",
+  "x": -28.103313446044922,
+  "y": 0.28447091579437256,
+  "z": 15.825675964355469,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53368"
+  },
+  "name": "track-road-wide-corner-large.012_lev1",
+  "x": -29.72123146057129,
+  "y": 0.2962738573551178,
+  "z": 11.92437744140625,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53369"
+  },
+  "name": "track-road-wide-straight.012_lev1",
+  "x": -28.103904724121094,
+  "y": 0.28423982858657837,
+  "z": 22.589893341064453,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a5336a"
+  },
+  "name": "track-road-wide-corner-large.013_lev1",
+  "x": -9.73382568359375,
+  "y": 0.2825482487678528,
+  "z": 11.128686904907227,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a5336b"
+  },
+  "name": "track-road-wide-straight.013_lev1",
+  "x": -3.8559701442718506,
+  "y": 0.2707436680793762,
+  "z": 12.80019760131836,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a5336c"
+  },
+  "name": "track-road-wide-corner-large.014_lev1",
+  "x": -9.73382568359375,
+  "y": 0.2825482487678528,
+  "z": 11.128686904907227,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a5336d"
+  },
+  "name": "track-road-wide-straight.014_lev1",
+  "x": -3.8559701442718506,
+  "y": 0.2707436680793762,
+  "z": 12.80019760131836,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a5336e"
+  },
+  "name": "track-road-wide-corner-large.015_lev1",
+  "x": -26.501514434814453,
+  "y": 0.2986696660518646,
+  "z": 30.092254638671875,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a5336f"
+  },
+  "name": "track-road-wide-straight.015_lev1",
+  "x": -20.616159439086914,
+  "y": 0.28886520862579346,
+  "z": 31.763736724853516,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53370"
+  },
+  "name": "track-road-wide-straight.016_lev1",
+  "x": 1.3914061784744263,
+  "y": 0.2817087471485138,
+  "z": 31.768619537353516,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53371"
+  },
+  "name": "track-road-wide-straight.017_lev1",
+  "x": -5.925601005554199,
+  "y": 0.2817087471485138,
+  "z": 31.768619537353516,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53372"
+  },
+  "name": "track-road-wide-straight.018_lev1",
+  "x": -13.283065795898438,
+  "y": 0.2817087471485138,
+  "z": 31.768619537353516,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53373"
+  },
+  "name": "track-road-wide-corner-large.016_lev1",
+  "x": 7.429261684417725,
+  "y": 0.30086028575897217,
+  "z": 30.167055130004883,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53374"
+  },
+  "name": "track-wide-corner-large.001_lev1",
+  "x": 15.459551811218262,
+  "y": 0.301742821931839,
+  "z": 22.290849685668945,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53375"
+  },
+  "name": "track-road-wide-corner-large.017_lev1",
+  "x": 10.773709297180176,
+  "y": 0.2825482487678528,
+  "z": 25.507383346557617,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53376"
+  },
+  "name": "track-road-wide-corner-large.018_lev1",
+  "x": 18.782888412475586,
+  "y": 0.2825482487678528,
+  "z": 17.633522033691406,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53377"
+  },
+  "name": "track-road-wide-corner-large.019_lev1",
+  "x": 26.74634552001953,
+  "y": 0.2865782082080841,
+  "z": 22.361774444580078,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53378"
+  },
+  "name": "track-road-wide-corner-large.020_lev1",
+  "x": 23.51099395751953,
+  "y": 0.2825482487678528,
+  "z": 17.65739631652832,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53379"
+  },
+  "name": "track-road-wide-straight.019_lev1",
+  "x": 35.107826232910156,
+  "y": 0.2707436680793762,
+  "z": 20.508514404296875,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a5337a"
+  },
+  "name": "track-wide-corner-large.002_lev1",
+  "x": 41.7601203918457,
+  "y": 0.301742821931839,
+  "z": 13.78678035736084,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a5337b"
+  },
+  "name": "track-road-wide-corner-large.021_lev1",
+  "x": 42.003440856933594,
+  "y": 0.2825482487678528,
+  "z": 9.140143394470215,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a5337c"
+  },
+  "name": "track-road-wide-straight.020_lev1",
+  "x": 37.737850189208984,
+  "y": 0.2707436680793762,
+  "z": 3.880650281906128,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a5337d"
+  },
+  "name": "track-road-wide-straight.021_lev1",
+  "x": 37.737850189208984,
+  "y": 0.2707436680793762,
+  "z": 0.7976810336112976,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a5337e"
+  },
+  "name": "track-road-wide-straight.022_lev1",
+  "x": 37.737850189208984,
+  "y": 0.2707436680793762,
+  "z": -2.267279624938965,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a5337f"
+  },
+  "name": "track-road-wide-corner-large.022_lev1",
+  "x": 25.716270446777344,
+  "y": 0.2939738631248474,
+  "z": -9.471601486206055,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53380"
+  },
+  "name": "track-road-wide-straight.023_lev1",
+  "x": 30.92070198059082,
+  "y": 0.2821703255176544,
+  "z": -7.800081729888916,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53381"
+  },
+  "name": "track-road-wide-corner-large.023_lev1",
+  "x": 36.122676849365234,
+  "y": 0.2962738573551178,
+  "z": -6.136984825134277,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53382"
+  },
+  "name": "track-road-wide-straight.024_lev1",
+  "x": 24.11638641357422,
+  "y": 0.2707436680793762,
+  "z": -13.074982643127441,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53383"
+  },
+  "name": "track-road-wide-straight.025_lev1",
+  "x": 24.116361618041992,
+  "y": 0.2707436680793762,
+  "z": -15.87875747680664,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53384"
+  },
+  "name": "track-road-wide-straight.026_lev1",
+  "x": 24.116361618041992,
+  "y": 0.2707436680793762,
+  "z": -18.943626403808594,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53385"
+  },
+  "name": "track-road-wide-corner-large.024_lev1",
+  "x": 25.78746223449707,
+  "y": 0.2825482487678528,
+  "z": -22.850034713745117,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53386"
+  },
+  "name": "track-wide-corner-large.003_lev1",
+  "x": 30.444185256958008,
+  "y": 0.31741246581077576,
+  "z": -26.111515045166016,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53387"
+  },
+  "name": "track-road-wide-corner-large.025_lev1",
+  "x": 30.501144409179688,
+  "y": 0.30975091457366943,
+  "z": -30.80289649963379,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53388"
+  },
+  "name": "track-road-wide-straight.027_lev1",
+  "x": 0.20038941502571106,
+  "y": 0.2707436680793762,
+  "z": -15.909711837768555,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53389"
+  },
+  "name": "track-road-wide-straight.028_lev1",
+  "x": 0.20038941502571106,
+  "y": 0.2707436680793762,
+  "z": -18.97467613220215,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a5338a"
+  },
+  "name": "track-road-wide-corner-large.026_lev1",
+  "x": 1.8443844318389893,
+  "y": 0.2825482487678528,
+  "z": -22.886737823486328,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a5338b"
+  },
+  "name": "track-road-wide-straight.029_lev1",
+  "x": 6.156241416931152,
+  "y": 0.2707436680793762,
+  "z": -24.516803741455078,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a5338c"
+  },
+  "name": "track-road-wide-straight.030_lev1",
+  "x": 10.14853286743164,
+  "y": 0.2707436680793762,
+  "z": -24.51413917541504,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a5338d"
+  },
+  "name": "track-road-wide-straight.031_lev1",
+  "x": 14.11745548248291,
+  "y": 0.2707436680793762,
+  "z": -24.512371063232422,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a5338e"
+  },
+  "name": "track-wide-corner-large.004_lev1",
+  "x": 18.460735321044922,
+  "y": 0.301742821931839,
+  "z": -26.1602783203125,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a5338f"
+  },
+  "name": "track-road-wide-corner-large.027_lev1",
+  "x": 21.792261123657227,
+  "y": 0.2825482487678528,
+  "z": -30.846464157104492,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53390"
+  },
+  "name": "track-road-wide-straight.032_lev1",
+  "x": 26.13396644592285,
+  "y": 0.2707436680793762,
+  "z": -32.46123504638672,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53391"
+  },
+  "name": "tree-pine-large.006_lev1",
+  "x": -41.56330871582031,
+  "y": 1.4000389575958252,
+  "z": -16.364959716796875,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53392"
+  },
+  "name": "tree-pine-large.007_lev1",
+  "x": -39.917869567871094,
+  "y": 1.358280897140503,
+  "z": -16.612865447998047,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53393"
+  },
+  "name": "tree-pine-large.008_lev1",
+  "x": -40.206581115722656,
+  "y": 1.4260473251342773,
+  "z": -15.3591947555542,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53394"
+  },
+  "name": "tree-pine-large.009_lev1",
+  "x": -8.53436279296875,
+  "y": 1.3189327716827393,
+  "z": -24.961116790771484,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53395"
+  },
+  "name": "tree-pine-large.010_lev1",
+  "x": -6.44863224029541,
+  "y": 1.358280897140503,
+  "z": -22.977298736572266,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53396"
+  },
+  "name": "tree-pine-large.011_lev1",
+  "x": -7.177637100219727,
+  "y": 1.2711703777313232,
+  "z": -23.95534896850586,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53397"
+  },
+  "name": "tree-pine-large.012_lev1",
+  "x": -6.776198387145996,
+  "y": 1.257849931716919,
+  "z": -24.903751373291016,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53398"
+  },
+  "name": "building_a.001_lev1",
+  "x": -26.257966995239258,
+  "y": 2.1527860164642334,
+  "z": -16.756370544433594,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a53399"
+  },
+  "name": "building_a.002_lev1",
+  "x": -32.453590393066406,
+  "y": 2.1527860164642334,
+  "z": -16.759323120117188,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a5339a"
+  },
+  "name": "track-road-wide-corner-small.004_lev1",
+  "x": -0.9883329272270203,
+  "y": 0.2874414324760437,
+  "z": 0.7242202758789062,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a5339b"
+  },
+  "name": "track-road-wide-corner-small.002_lev1",
+  "x": 1.0438411235809326,
+  "y": 0.28324779868125916,
+  "z": -13.25387954711914,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a5339c"
+  },
+  "name": "track-road-wide-corner-small.003_lev1",
+  "x": 38.58067321777344,
+  "y": 0.28324779868125916,
+  "z": 6.537013053894043,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a5339d"
+  },
+  "name": "track-road-wide-straight.009_lev1",
+  "x": -43.344139099121094,
+  "y": 0.2707436680793762,
+  "z": 0.9848670363426208,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a5339e"
+  },
+  "name": "track-road-wide-straight.033_lev1",
+  "x": -43.34414291381836,
+  "y": 0.2707436680793762,
+  "z": -1.8405143022537231,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a5339f"
+  },
+  "name": "track-road-wide-straight.034_lev1",
+  "x": -43.34414291381836,
+  "y": 0.2707436680793762,
+  "z": -4.905457496643066,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a533a0"
+  },
+  "name": "track-road-wide-straight.035_lev1",
+  "x": -43.344017028808594,
+  "y": 0.2707436680793762,
+  "z": -7.7249755859375,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a533a1"
+  },
+  "name": "track-road-wide-straight.036_lev1",
+  "x": -43.344017028808594,
+  "y": 0.2707436680793762,
+  "z": -10.5287504196167,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a533a2"
+  },
+  "name": "track-road-wide-straight.037_lev1",
+  "x": -43.344017028808594,
+  "y": 0.2707436680793762,
+  "z": -13.593734741210938,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a533a3"
+  },
+  "name": "track-road-wide-straight.038_lev1",
+  "x": -43.34414291381836,
+  "y": 0.2707436680793762,
+  "z": -16.4825439453125,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a533a4"
+  },
+  "name": "track-road-wide-straight.002_lev1",
+  "x": -11.34762954711914,
+  "y": 0.2707436680793762,
+  "z": 3.590853691101074,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a533a5"
+  },
+  "name": "track-road-wide-straight.039_lev1",
+  "x": -11.347631454467773,
+  "y": 0.2707436680793762,
+  "z": 0.7654751539230347,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a533a6"
+  },
+  "name": "track-road-wide-straight.040_lev1",
+  "x": -11.347631454467773,
+  "y": 0.2707436680793762,
+  "z": -2.2994885444641113,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a533a7"
+  },
+  "name": "track-road-wide-straight.041_lev1",
+  "x": -11.347514152526855,
+  "y": 0.2707436680793762,
+  "z": -5.1189727783203125,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a533a8"
+  },
+  "name": "track-road-wide-straight.042_lev1",
+  "x": -11.347515106201172,
+  "y": 0.2707436680793762,
+  "z": -7.922735214233398,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a533a9"
+  },
+  "name": "track-road-wide-straight.043_lev1",
+  "x": -11.347515106201172,
+  "y": 0.2707436680793762,
+  "z": -10.987735748291016,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a533aa"
+  },
+  "name": "track-road-wide-straight.044_lev1",
+  "x": -11.347515106201172,
+  "y": 0.2707436680793762,
+  "z": -14.085216522216797,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a533ab"
+  },
+  "name": "hangar_roundglass.001_lev1",
+  "x": 0.7436274886131287,
+  "y": 0.46470707654953003,
+  "z": 27.526866912841797,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a533ac"
+  },
+  "name": "hangar_roundglass.002_lev1",
+  "x": -2.6390037536621094,
+  "y": 0.46470707654953003,
+  "z": 27.526866912841797,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a533ad"
+  },
+  "name": "hangar_roundglass.003_lev1",
+  "x": -6.287415504455566,
+  "y": 0.46470707654953003,
+  "z": 27.526866912841797,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a533ae"
+  },
+  "name": "hangar_roundglass.004_lev1",
+  "x": -9.81899356842041,
+  "y": 0.46470707654953003,
+  "z": 27.526866912841797,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a533af"
+  },
+  "name": "hangar_roundglass.005_lev1",
+  "x": -13.34417724609375,
+  "y": 0.46470707654953003,
+  "z": 27.526866912841797,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a533b0"
+  },
+  "name": "hangar_roundglass.006_lev1",
+  "x": -16.668298721313477,
+  "y": 0.46470707654953003,
+  "z": 27.526866912841797,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a533b1"
+  },
+  "name": "hangar_roundglass.007_lev1",
+  "x": -20.338970184326172,
+  "y": 0.46470707654953003,
+  "z": 27.526866912841797,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a533b2"
+  },
+  "name": "hangar_roundglass.008_lev1",
+  "x": -23.82616424560547,
+  "y": 0.46470707654953003,
+  "z": 27.526866912841797,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a533b3"
+  },
+  "name": "hangar_roundglass.009_lev1",
+  "x": 4.165138244628906,
+  "y": 0.46470707654953003,
+  "z": 36.65742492675781,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a533b4"
+  },
+  "name": "hangar_roundglass.010_lev1",
+  "x": 0.7436274886131287,
+  "y": 0.46470707654953003,
+  "z": 36.65742492675781,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a533b5"
+  },
+  "name": "hangar_roundglass.011_lev1",
+  "x": -2.6390037536621094,
+  "y": 0.46470707654953003,
+  "z": 36.65742492675781,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a533b6"
+  },
+  "name": "hangar_roundglass.012_lev1",
+  "x": -6.287415504455566,
+  "y": 0.46470707654953003,
+  "z": 36.65742492675781,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a533b7"
+  },
+  "name": "hangar_roundglass.013_lev1",
+  "x": -9.81899356842041,
+  "y": 0.46470707654953003,
+  "z": 36.65742492675781,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a533b8"
+  },
+  "name": "hangar_roundglass.014_lev1",
+  "x": -13.34417724609375,
+  "y": 0.46470707654953003,
+  "z": 36.65742492675781,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a533b9"
+  },
+  "name": "hangar_roundglass.015_lev1",
+  "x": -16.668298721313477,
+  "y": 0.46470707654953003,
+  "z": 36.65742492675781,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a533ba"
+  },
+  "name": "hangar_roundglass.016_lev1",
+  "x": -20.338970184326172,
+  "y": 0.46470707654953003,
+  "z": 36.65742492675781,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a533bb"
+  },
+  "name": "hangar_roundglass.017_lev1",
+  "x": -23.82616424560547,
+  "y": 0.46470707654953003,
+  "z": 36.65742492675781,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a533bd"
+  },
+  "name": "coin_structure_detailed_lev1",
+  "x": 4.005804061889648,
+  "y": 1.3172268867492676,
+  "z": 15.909136772155762,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a533be"
+  },
+  "name": "coin_structure_detailed_lev1",
+  "x": -6.09042317939187,
+  "y": 1,
+  "z": -36.29107795502607,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a533bf"
+  },
+  "name": "coin_structure_detailed_lev1",
+  "x": -33.49159502923699,
+  "y": 1,
+  "z": -24.4853744095806,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a533c0"
+  },
+  "name": "coin_structure_detailed_lev1",
+  "x": -43.384038999877504,
+  "y": 1,
+  "z": 26.50916287781724,
+  "level": 1,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f633422ecd6869a533c1"
+  },
+  "name": "coin_structure_diagonal_lev1",
+  "x": 42.537487408190785,
+  "y": 1,
+  "z": 41.87411698700432,
+  "level": 1,
+  "role": "finalPrize",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533c3"
+  },
+  "name": "palm_2_lit_0_lev2",
+  "x": 60,
+  "y": 6.201006889343262,
+  "z": 7,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533c4"
+  },
+  "name": "m_palm_p2_31_trunk_0_lev2",
+  "x": 60.15590286254883,
+  "y": 0.045805174857378006,
+  "z": -23.939327239990234,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533c5"
+  },
+  "name": "m_palm_p2_31_leaf_0_lev2",
+  "x": 60.15590286254883,
+  "y": 0.045805174857378006,
+  "z": -23.939327239990234,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533c6"
+  },
+  "name": "m_palm_p2_30_trunk_0_lev2",
+  "x": 54.99016571044922,
+  "y": 0.04580656439065933,
+  "z": -22.856054306030273,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533c7"
+  },
+  "name": "m_palm_p2_30_leaf_0_lev2",
+  "x": 54.99016571044922,
+  "y": 0.04580656439065933,
+  "z": -22.856054306030273,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533c8"
+  },
+  "name": "m_palm_p2_25_trunk_0_lev2",
+  "x": -12.791038513183594,
+  "y": 0.04580484330654144,
+  "z": 36.20240783691406,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533c9"
+  },
+  "name": "m_palm_p2_25_break_0_lev2",
+  "x": -12.791038513183594,
+  "y": 0.04580484330654144,
+  "z": 36.20240783691406,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533ca"
+  },
+  "name": "m_palm_p2_25_leaf_0_lev2",
+  "x": -12.791038513183594,
+  "y": 0.04580484330654144,
+  "z": 36.20240783691406,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533cb"
+  },
+  "name": "m_palm_p2_23_trunk_0_lev2",
+  "x": 48.68817901611328,
+  "y": 0.04580647125840187,
+  "z": 18.088237762451172,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533cc"
+  },
+  "name": "m_palm_p2_23_break_0_lev2",
+  "x": 48.68817901611328,
+  "y": 0.04580647125840187,
+  "z": 18.088237762451172,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533cd"
+  },
+  "name": "m_palm_p2_23_leaf_0_lev2",
+  "x": 48.68817901611328,
+  "y": 0.04580647125840187,
+  "z": 18.088237762451172,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533ce"
+  },
+  "name": "m_palm_p2_22_trunk_0_lev2",
+  "x": -9.330223083496094,
+  "y": 0.04580668359994888,
+  "z": 25.210790634155273,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533cf"
+  },
+  "name": "m_palm_p2_22_leaf_0_lev2",
+  "x": -9.330223083496094,
+  "y": 0.04580668359994888,
+  "z": 25.210790634155273,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533d0"
+  },
+  "name": "m_palm_p2_21_trunk_0_lev2",
+  "x": 53.78773498535156,
+  "y": 0.045806657522916794,
+  "z": -25.320510864257812,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533d1"
+  },
+  "name": "m_palm_p2_21_leaf_0_lev2",
+  "x": 53.78773498535156,
+  "y": 0.045806657522916794,
+  "z": -25.320510864257812,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533d2"
+  },
+  "name": "m_palm_p2_20_trunk_0_lev2",
+  "x": -78.39144897460938,
+  "y": 0.04580637812614441,
+  "z": 35.400142669677734,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533d3"
+  },
+  "name": "m_palm_p2_20_leaf_0_lev2",
+  "x": -78.39144897460938,
+  "y": 0.04580637812614441,
+  "z": 35.400142669677734,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533d4"
+  },
+  "name": "m_palm_p2_19_trunk_0_lev2",
+  "x": -1.5654830932617188,
+  "y": 0.1270827353000641,
+  "z": 34.94504165649414,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533d5"
+  },
+  "name": "m_palm_p2_19_leaf_0_lev2",
+  "x": -1.5654830932617188,
+  "y": 0.1270827353000641,
+  "z": 34.94504165649414,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533d6"
+  },
+  "name": "m_palm_p2_18_trunk_0_lev2",
+  "x": 22.154220581054688,
+  "y": 0.045806173235177994,
+  "z": -25.11431121826172,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533d7"
+  },
+  "name": "m_palm_p2_18_leaf_0_lev2",
+  "x": 22.154220581054688,
+  "y": 0.045806173235177994,
+  "z": -25.11431121826172,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533d8"
+  },
+  "name": "m_palm_p2_17_trunk_0_lev2",
+  "x": -21.151885986328125,
+  "y": 0.04580776020884514,
+  "z": 34.661468505859375,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533d9"
+  },
+  "name": "m_palm_p2_17_leaf_0_lev2",
+  "x": -21.151885986328125,
+  "y": 0.04580776020884514,
+  "z": 34.661468505859375,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533da"
+  },
+  "name": "m_palm_p2_16_trunk_0_lev2",
+  "x": 7.903228759765625,
+  "y": 0.04580581560730934,
+  "z": 35.672935485839844,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533db"
+  },
+  "name": "m_palm_p2_16_leaf_0_lev2",
+  "x": 7.903228759765625,
+  "y": 0.04580581560730934,
+  "z": 35.672935485839844,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533dc"
+  },
+  "name": "m_palm_p2_15_trunk_0_lev2",
+  "x": -33.24432373046875,
+  "y": 0.04580582678318024,
+  "z": 35.455501556396484,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533dd"
+  },
+  "name": "m_palm_p2_15_leaf_0_lev2",
+  "x": -33.24432373046875,
+  "y": 0.04580582678318024,
+  "z": 35.455501556396484,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533de"
+  },
+  "name": "m_palm_p2_14_trunk_0_lev2",
+  "x": -81.68264770507812,
+  "y": 0.04580603167414665,
+  "z": 6.462343215942383,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533df"
+  },
+  "name": "m_palm_p2_14_leaf_0_lev2",
+  "x": -81.68264770507812,
+  "y": 0.04580603167414665,
+  "z": 6.462343215942383,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533e0"
+  },
+  "name": "m_palm_p2_13_trunk_0_lev2",
+  "x": 55.613006591796875,
+  "y": 0.04580811411142349,
+  "z": 12.43197250366211,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533e1"
+  },
+  "name": "m_palm_p2_13_leaf_0_lev2",
+  "x": 55.613006591796875,
+  "y": 0.04580811411142349,
+  "z": 12.43197250366211,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533e2"
+  },
+  "name": "m_palm_p2_12_trunk_0_lev2",
+  "x": 48.15126037597656,
+  "y": 0.04580594226717949,
+  "z": 32.30536651611328,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533e3"
+  },
+  "name": "m_palm_p2_12_leaf_0_lev2",
+  "x": 48.15126037597656,
+  "y": 0.04580594226717949,
+  "z": 32.30536651611328,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533e4"
+  },
+  "name": "m_palm_p2_11_trunk_0_lev2",
+  "x": 39.082420349121094,
+  "y": 0.04580765590071678,
+  "z": 11.940118789672852,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533e5"
+  },
+  "name": "m_palm_p2_11_leaf_0_lev2",
+  "x": 39.082420349121094,
+  "y": 0.04580765590071678,
+  "z": 11.940118789672852,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533e6"
+  },
+  "name": "m_palm_p2_10_trunk_0_lev2",
+  "x": 60.4109992980957,
+  "y": 0.045808110386133194,
+  "z": -13.087112426757812,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533e7"
+  },
+  "name": "m_palm_p2_10_leaf_0_lev2",
+  "x": 60.4109992980957,
+  "y": 0.045808110386133194,
+  "z": -13.087112426757812,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533e8"
+  },
+  "name": "m_palm_p2_9_trunk_0_lev2",
+  "x": -79.76498413085938,
+  "y": 0.04580710455775261,
+  "z": 16.075693130493164,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533e9"
+  },
+  "name": "m_palm_p2_9_leaf_0_lev2",
+  "x": -79.76498413085938,
+  "y": 0.04580710455775261,
+  "z": 16.075693130493164,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533ea"
+  },
+  "name": "m_palm_p2_8_trunk_0_lev2",
+  "x": 56.50311279296875,
+  "y": 0.045808058232069016,
+  "z": 1.1438307762145996,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533eb"
+  },
+  "name": "m_palm_p2_8_leaf_0_lev2",
+  "x": 56.50311279296875,
+  "y": 0.045808058232069016,
+  "z": 1.1438307762145996,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533ec"
+  },
+  "name": "m_palm_p2_7_trunk_0_lev2",
+  "x": 34.889617919921875,
+  "y": 0.1873534768819809,
+  "z": 36.02037811279297,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533ed"
+  },
+  "name": "m_palm_p2_7_leaf_0_lev2",
+  "x": 34.889617919921875,
+  "y": 0.1873534768819809,
+  "z": 36.02037811279297,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533ee"
+  },
+  "name": "m_palm_p2_6_trunk_0_lev2",
+  "x": 38.90961456298828,
+  "y": 0.04580683261156082,
+  "z": 8.406436920166016,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533ef"
+  },
+  "name": "m_palm_p2_6_leaf_0_lev2",
+  "x": 38.90961456298828,
+  "y": 0.04580683261156082,
+  "z": 8.406436920166016,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533f0"
+  },
+  "name": "m_palm_p2_5_trunk_0_lev2",
+  "x": -35.30647277832031,
+  "y": 0.0458080880343914,
+  "z": -25.338516235351562,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533f1"
+  },
+  "name": "m_palm_p2_5_leaf_0_lev2",
+  "x": -35.30647277832031,
+  "y": 0.0458080880343914,
+  "z": -25.338516235351562,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533f2"
+  },
+  "name": "m_palm_p2_4_trunk_0_lev2",
+  "x": -71.78040313720703,
+  "y": 0.04580579325556755,
+  "z": -25.145954132080078,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533f3"
+  },
+  "name": "m_palm_p2_4_leaf_0_lev2",
+  "x": -71.78040313720703,
+  "y": 0.04580579325556755,
+  "z": -25.145954132080078,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533f4"
+  },
+  "name": "m_palm_p2_3_trunk_0_lev2",
+  "x": 57.33171081542969,
+  "y": 0.04580821096897125,
+  "z": -2.9624710083007812,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533f5"
+  },
+  "name": "m_palm_p2_3_leaf_0_lev2",
+  "x": 57.33171081542969,
+  "y": 0.04580821096897125,
+  "z": -2.9624710083007812,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533f6"
+  },
+  "name": "m_palm_p2_2_trunk_0_lev2",
+  "x": 52.041866302490234,
+  "y": 0.045807238668203354,
+  "z": -2.5197877883911133,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533f7"
+  },
+  "name": "m_palm_p2_2_leaf_0_lev2",
+  "x": 52.041866302490234,
+  "y": 0.045807238668203354,
+  "z": -2.5197877883911133,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533f8"
+  },
+  "name": "m_palm_p2_1_trunk_0_lev2",
+  "x": 47.334442138671875,
+  "y": 0.045807234942913055,
+  "z": -2.3767480850219727,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533f9"
+  },
+  "name": "m_palm_p2_1_leaf_0_lev2",
+  "x": 47.334442138671875,
+  "y": 0.045807234942913055,
+  "z": -2.3767480850219727,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533fa"
+  },
+  "name": "palm_2_lit_0.001_lev2",
+  "x": 61,
+  "y": 6.2010064125061035,
+  "z": 13,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533fb"
+  },
+  "name": "m_palm_p2_31_trunk_0.001_lev2",
+  "x": -49.8441047668457,
+  "y": 0.0458046980202198,
+  "z": -15.939327239990234,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533fc"
+  },
+  "name": "m_palm_p2_31_leaf_0.001_lev2",
+  "x": -49.8441047668457,
+  "y": 0.0458046980202198,
+  "z": -15.939327239990234,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533fd"
+  },
+  "name": "m_palm_p2_30_trunk_0.001_lev2",
+  "x": 55.99016571044922,
+  "y": 0.04580608755350113,
+  "z": -16.856054306030273,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533fe"
+  },
+  "name": "m_palm_p2_30_leaf_0.001_lev2",
+  "x": 55.99016571044922,
+  "y": 0.04580608755350113,
+  "z": -16.856054306030273,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a533ff"
+  },
+  "name": "m_palm_p2_25_trunk_0.001_lev2",
+  "x": 58.20896530151367,
+  "y": 0.045804597437381744,
+  "z": 23.202407836914062,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53400"
+  },
+  "name": "m_palm_p2_25_break_0.001_lev2",
+  "x": 58.20896530151367,
+  "y": 0.045804597437381744,
+  "z": 23.202407836914062,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53401"
+  },
+  "name": "m_palm_p2_25_leaf_0.001_lev2",
+  "x": 58.20896530151367,
+  "y": 0.045804597437381744,
+  "z": 23.202407836914062,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53402"
+  },
+  "name": "m_palm_p2_23_trunk_0.001_lev2",
+  "x": 49.68817901611328,
+  "y": 0.04580599442124367,
+  "z": 24.088237762451172,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53403"
+  },
+  "name": "m_palm_p2_23_break_0.001_lev2",
+  "x": 49.68817901611328,
+  "y": 0.04580599442124367,
+  "z": 24.088237762451172,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53404"
+  },
+  "name": "m_palm_p2_23_leaf_0.001_lev2",
+  "x": 49.68817901611328,
+  "y": 0.04580599442124367,
+  "z": 24.088237762451172,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53405"
+  },
+  "name": "m_palm_p2_22_trunk_0.001_lev2",
+  "x": 60.66978454589844,
+  "y": 0.04580627381801605,
+  "z": -21.78921127319336,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53406"
+  },
+  "name": "m_palm_p2_22_leaf_0.001_lev2",
+  "x": 60.66978454589844,
+  "y": 0.04580627381801605,
+  "z": -21.78921127319336,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53407"
+  },
+  "name": "m_palm_p2_21_trunk_0.001_lev2",
+  "x": 54.78773498535156,
+  "y": 0.04580618068575859,
+  "z": -19.320510864257812,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53408"
+  },
+  "name": "m_palm_p2_21_leaf_0.001_lev2",
+  "x": 54.78773498535156,
+  "y": 0.04580618068575859,
+  "z": -19.320510864257812,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53409"
+  },
+  "name": "m_palm_p2_20_trunk_0.001_lev2",
+  "x": -9.391441345214844,
+  "y": 0.04580652713775635,
+  "z": -25.59986114501953,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a5340a"
+  },
+  "name": "m_palm_p2_20_leaf_0.001_lev2",
+  "x": -9.391441345214844,
+  "y": 0.04580652713775635,
+  "z": -25.59986114501953,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a5340b"
+  },
+  "name": "m_palm_p2_19_trunk_0.001_lev2",
+  "x": 50.43452453613281,
+  "y": 0.12708209455013275,
+  "z": 19.945045471191406,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a5340c"
+  },
+  "name": "m_palm_p2_19_leaf_0.001_lev2",
+  "x": 50.43452453613281,
+  "y": 0.12708209455013275,
+  "z": 19.945045471191406,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a5340d"
+  },
+  "name": "m_palm_p2_18_trunk_0.001_lev2",
+  "x": 52.15422058105469,
+  "y": 0.045805368572473526,
+  "z": -23.11431121826172,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a5340e"
+  },
+  "name": "m_palm_p2_18_leaf_0.001_lev2",
+  "x": 52.15422058105469,
+  "y": 0.045805368572473526,
+  "z": -23.11431121826172,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a5340f"
+  },
+  "name": "m_palm_p2_17_trunk_0.001_lev2",
+  "x": -13.151885986328125,
+  "y": 0.04580703005194664,
+  "z": 34.661468505859375,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53410"
+  },
+  "name": "m_palm_p2_17_leaf_0.001_lev2",
+  "x": -13.151885986328125,
+  "y": 0.04580703005194664,
+  "z": 34.661468505859375,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53411"
+  },
+  "name": "m_palm_p2_16_trunk_0.001_lev2",
+  "x": -0.096771240234375,
+  "y": 0.04580552503466606,
+  "z": 36.67293930053711,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53412"
+  },
+  "name": "m_palm_p2_16_leaf_0.001_lev2",
+  "x": -0.096771240234375,
+  "y": 0.04580552503466606,
+  "z": 36.67293930053711,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53413"
+  },
+  "name": "m_palm_p2_15_trunk_0.001_lev2",
+  "x": -8.24432373046875,
+  "y": 0.045805465430021286,
+  "z": 25.455501556396484,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53414"
+  },
+  "name": "m_palm_p2_15_leaf_0.001_lev2",
+  "x": -8.24432373046875,
+  "y": 0.045805465430021286,
+  "z": 25.455501556396484,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53415"
+  },
+  "name": "m_palm_p2_14_trunk_0.001_lev2",
+  "x": 57.31736755371094,
+  "y": 0.04580564424395561,
+  "z": 33.46234130859375,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53416"
+  },
+  "name": "m_palm_p2_14_leaf_0.001_lev2",
+  "x": 57.31736755371094,
+  "y": 0.04580564424395561,
+  "z": 33.46234130859375,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53417"
+  },
+  "name": "m_palm_p2_13_trunk_0.001_lev2",
+  "x": 21.612998962402344,
+  "y": 0.04580780863761902,
+  "z": -24.56802749633789,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53418"
+  },
+  "name": "m_palm_p2_13_leaf_0.001_lev2",
+  "x": 21.612998962402344,
+  "y": 0.04580780863761902,
+  "z": -24.56802749633789,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53419"
+  },
+  "name": "m_palm_p2_12_trunk_0.001_lev2",
+  "x": -22.84874725341797,
+  "y": 0.045805517584085464,
+  "z": 36.30536651611328,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a5341a"
+  },
+  "name": "m_palm_p2_12_leaf_0.001_lev2",
+  "x": -22.84874725341797,
+  "y": 0.045805517584085464,
+  "z": 36.30536651611328,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a5341b"
+  },
+  "name": "m_palm_p2_11_trunk_0.001_lev2",
+  "x": 8.082420349121094,
+  "y": 0.04580742493271828,
+  "z": 36.94011688232422,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a5341c"
+  },
+  "name": "m_palm_p2_11_leaf_0.001_lev2",
+  "x": 8.082420349121094,
+  "y": 0.04580742493271828,
+  "z": 36.94011688232422,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a5341d"
+  },
+  "name": "m_palm_p2_10_trunk_0.001_lev2",
+  "x": -38.58901596069336,
+  "y": 0.04580763354897499,
+  "z": 22.91288948059082,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a5341e"
+  },
+  "name": "m_palm_p2_10_leaf_0.001_lev2",
+  "x": -38.58901596069336,
+  "y": 0.04580763354897499,
+  "z": 22.91288948059082,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a5341f"
+  },
+  "name": "m_palm_p2_9_trunk_0.001_lev2",
+  "x": 20.235031127929688,
+  "y": 0.045806799083948135,
+  "z": -35.9243049621582,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53420"
+  },
+  "name": "m_palm_p2_9_leaf_0.001_lev2",
+  "x": 20.235031127929688,
+  "y": 0.045806799083948135,
+  "z": -35.9243049621582,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53421"
+  },
+  "name": "m_palm_p2_8_trunk_0.001_lev2",
+  "x": 53.50311279296875,
+  "y": 0.04580758139491081,
+  "z": 14.143831253051758,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53422"
+  },
+  "name": "m_palm_p2_8_leaf_0.001_lev2",
+  "x": 53.50311279296875,
+  "y": 0.04580758139491081,
+  "z": 14.143831253051758,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53423"
+  },
+  "name": "m_palm_p2_7_trunk_0.001_lev2",
+  "x": 48.889617919921875,
+  "y": 0.18735282123088837,
+  "z": 34.02037811279297,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53424"
+  },
+  "name": "m_palm_p2_7_leaf_0.001_lev2",
+  "x": 48.889617919921875,
+  "y": 0.18735282123088837,
+  "z": 34.02037811279297,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53425"
+  },
+  "name": "m_palm_p2_6_trunk_0.001_lev2",
+  "x": 7.909614562988281,
+  "y": 0.04580660164356232,
+  "z": 33.406436920166016,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53426"
+  },
+  "name": "m_palm_p2_6_leaf_0.001_lev2",
+  "x": 7.909614562988281,
+  "y": 0.04580660164356232,
+  "z": 33.406436920166016,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53427"
+  },
+  "name": "m_palm_p2_5_trunk_0.001_lev2",
+  "x": 62.69353485107422,
+  "y": 0.04580775275826454,
+  "z": -10.338512420654297,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53428"
+  },
+  "name": "m_palm_p2_5_leaf_0.001_lev2",
+  "x": 62.69353485107422,
+  "y": 0.04580775275826454,
+  "z": -10.338512420654297,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53429"
+  },
+  "name": "m_palm_p2_4_trunk_0.001_lev2",
+  "x": -77.78041076660156,
+  "y": 0.04580523446202278,
+  "z": 18.854045867919922,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a5342a"
+  },
+  "name": "m_palm_p2_4_leaf_0.001_lev2",
+  "x": -77.78041076660156,
+  "y": 0.04580523446202278,
+  "z": 18.854045867919922,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a5342b"
+  },
+  "name": "m_palm_p2_3_trunk_0.001_lev2",
+  "x": 58.33171081542969,
+  "y": 0.04580773413181305,
+  "z": 3.0375289916992188,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a5342c"
+  },
+  "name": "m_palm_p2_3_leaf_0.001_lev2",
+  "x": 58.33171081542969,
+  "y": 0.04580773413181305,
+  "z": 3.0375289916992188,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a5342d"
+  },
+  "name": "m_palm_p2_2_trunk_0.001_lev2",
+  "x": 53.041866302490234,
+  "y": 0.04580676183104515,
+  "z": 3.4802122116088867,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a5342e"
+  },
+  "name": "m_palm_p2_2_leaf_0.001_lev2",
+  "x": 53.041866302490234,
+  "y": 0.04580676183104515,
+  "z": 3.4802122116088867,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a5342f"
+  },
+  "name": "m_palm_p2_1_trunk_0.001_lev2",
+  "x": 38.334442138671875,
+  "y": 0.04580675810575485,
+  "z": 10.623251914978027,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53430"
+  },
+  "name": "m_palm_p2_1_leaf_0.001_lev2",
+  "x": 38.334442138671875,
+  "y": 0.04580675810575485,
+  "z": 10.623251914978027,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53431"
+  },
+  "name": "plane.010_lev2",
+  "x": -2,
+  "y": 0,
+  "z": 2,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53432"
+  },
+  "name": "rural_diner_1_rural_facade_flr_2_0_lev2",
+  "x": 20.95429039001465,
+  "y": 0.02579815685749054,
+  "z": 37.000003814697266,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53433"
+  },
+  "name": "rural_diner_1_rural_trailer_stuff_1_0_lev2",
+  "x": 20.95429039001465,
+  "y": 0.02579815685749054,
+  "z": 37.000003814697266,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53434"
+  },
+  "name": "rural_diner_2_rural_facade_flr_2_0_lev2",
+  "x": 38.62375259399414,
+  "y": 0.10000006854534149,
+  "z": -33.676666259765625,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53435"
+  },
+  "name": "rural_diner_2_rural_trailer_stuff_1_0_lev2",
+  "x": 38.6237907409668,
+  "y": 0.10000006854534149,
+  "z": -33.676666259765625,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53436"
+  },
+  "name": "rural_houseold_1_material_39_0_lev2",
+  "x": 37.22294616699219,
+  "y": 0.029999440535902977,
+  "z": 24.6939697265625,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53437"
+  },
+  "name": "rural_storesmall_1_rural_brownstone_facade_flr_6_0_lev2",
+  "x": 20.009620666503906,
+  "y": 1.3138128519058228,
+  "z": 25.453777313232422,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53438"
+  },
+  "name": "rural_storesmall_1_rural_facade_flr_2_0_lev2",
+  "x": 20.009645462036133,
+  "y": 1.3138108253479004,
+  "z": 25.45351791381836,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53439"
+  },
+  "name": "rural_storesmall_2_rural_walltrim_1_0_lev2",
+  "x": -38.693538665771484,
+  "y": 0.1029229536652565,
+  "z": -34.201290130615234,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a5343a"
+  },
+  "name": "rural_storesmall_2_material_0_0_lev2",
+  "x": -38.693538665771484,
+  "y": 0.1029229536652565,
+  "z": -34.201290130615234,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a5343b"
+  },
+  "name": "rural_storesmall_2_rural_facade_flr_2_0_lev2",
+  "x": -38.693538665771484,
+  "y": 0.1029229536652565,
+  "z": -34.201290130615234,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a5343c"
+  },
+  "name": "rural_storesmall_3_rural_midcity_walls_flr_1_0_lev2",
+  "x": 17.773717880249023,
+  "y": 1.1258258819580078,
+  "z": -8.364956855773926,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a5343d"
+  },
+  "name": "rural_storesmall_3_rural_facade_flr_2_0_lev2",
+  "x": 17.773717880249023,
+  "y": 1.1258258819580078,
+  "z": -8.364956855773926,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a5343e"
+  },
+  "name": "rural_storesmall_4_rural_midcity_walls_flr_1_0_lev2",
+  "x": 49.3293342590332,
+  "y": 0.03327655792236328,
+  "z": -6.883674144744873,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a5343f"
+  },
+  "name": "rural_storesmall_4_rural_facade_flr_2_0_lev2",
+  "x": 49.3293342590332,
+  "y": 0.03327655792236328,
+  "z": -6.883674144744873,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53440"
+  },
+  "name": "rural_storesmall_5_rural_brownstone_facade_flr_6_0_lev2",
+  "x": -49.81026840209961,
+  "y": 0.10000079870223999,
+  "z": -30.246089935302734,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53441"
+  },
+  "name": "rural_storesmall_5_rural_facade_flr_2_0_lev2",
+  "x": -49.81026840209961,
+  "y": 0.10000079870223999,
+  "z": -30.246089935302734,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53442"
+  },
+  "name": "rural_storesmall_6_rural_midcity_facade_flr_2_0_lev2",
+  "x": -1.914182424545288,
+  "y": 0.018240109086036682,
+  "z": -30.589757919311523,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53443"
+  },
+  "name": "rural_storesmall_6_rural_facade_flr_2_0_lev2",
+  "x": -1.914182424545288,
+  "y": 0.018240109086036682,
+  "z": -30.589757919311523,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53444"
+  },
+  "name": "rural_storesmall_7_rural_midcity_walls_flr_1_0_lev2",
+  "x": -51.517608642578125,
+  "y": 0.09999994188547134,
+  "z": -9.550747871398926,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53445"
+  },
+  "name": "rural_storesmall_7_rural_facade_flr_2_0_lev2",
+  "x": -51.517608642578125,
+  "y": 0.09999994188547134,
+  "z": -9.550747871398926,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53446"
+  },
+  "name": "rural_storesmall_8_rural_midcity_walls_flr_1_0_lev2",
+  "x": -29.50652503967285,
+  "y": 0.493662029504776,
+  "z": -7.4017181396484375,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53447"
+  },
+  "name": "rural_storesmall_8_rural_facade_flr_2_0_lev2",
+  "x": -29.50652503967285,
+  "y": 0.3936620354652405,
+  "z": -7.4017181396484375,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53448"
+  },
+  "name": "rural_unmobilehome_1_rural_trailer_stuff_1_0_lev2",
+  "x": -63.99541473388672,
+  "y": 0.08168601989746094,
+  "z": -33.238311767578125,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53449"
+  },
+  "name": "rural_unmobilehome_1_rural_facade_flr_2_0_lev2",
+  "x": -64.09541320800781,
+  "y": 0.08168601989746094,
+  "z": -33.238311767578125,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a5344a"
+  },
+  "name": "rural_woodenbuilding_2_rural_walltrim_1_0_lev2",
+  "x": -16.174829483032227,
+  "y": 0.2000010907649994,
+  "z": 22.74115753173828,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a5344b"
+  },
+  "name": "rural_woodenbuilding_2_rural_housetrim_1_0_lev2",
+  "x": -16.174829483032227,
+  "y": 0.2000010907649994,
+  "z": 22.74115753173828,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a5344c"
+  },
+  "name": "rural_woodenbuilding_4_rural_housetrim_1_0_lev2",
+  "x": -58.63059616088867,
+  "y": 0.09372726082801819,
+  "z": 38.40803909301758,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a5344d"
+  },
+  "name": "rural_woodenbuilding_4_rural_facade_flr_2_0_lev2",
+  "x": -58.63059616088867,
+  "y": 0.09372726082801819,
+  "z": 38.40803909301758,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a5344e"
+  },
+  "name": "rural_woodenbuilding_4_rural_walltrim_1_0_lev2",
+  "x": -58.63059616088867,
+  "y": 0.1937272697687149,
+  "z": 38.40803909301758,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a5344f"
+  },
+  "name": "rural_woodenbuilding_5_rural_walltrim_1_0_lev2",
+  "x": -56.038238525390625,
+  "y": 0.23513662815093994,
+  "z": 18.285930633544922,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53450"
+  },
+  "name": "rural_woodenbuilding_5_rural_housetrim_1_0_lev2",
+  "x": -56.038238525390625,
+  "y": 0.23513662815093994,
+  "z": 18.285930633544922,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53451"
+  },
+  "name": "rural_trailerh_1_rural_trailer_stuff_1_0_lev2",
+  "x": 39.97545623779297,
+  "y": 1.0708094835281372,
+  "z": 37.28425598144531,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53452"
+  },
+  "name": "rural_trailerh_2_rural_trailer_stuff_1_0_lev2",
+  "x": -23.61688995361328,
+  "y": 1.070809006690979,
+  "z": 22.28424644470215,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53453"
+  },
+  "name": "object_112.001_lev2",
+  "x": -43.34062957763672,
+  "y": -0.19192218780517578,
+  "z": -1.0012314319610596,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53454"
+  },
+  "name": "cube.002_pionerskaya_4.001_0_lev2",
+  "x": -62,
+  "y": 0.7982686758041382,
+  "z": 1.0000019073486328,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53455"
+  },
+  "name": "cube.003_pionerskaya_4.001_0_lev2",
+  "x": -68.52435302734375,
+  "y": 2.4021646976470947,
+  "z": 6.597135543823242,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53456"
+  },
+  "name": "cube.002_pionerskaya_4.001_0.001_lev2",
+  "x": -27,
+  "y": 0.7982686758041382,
+  "z": 1,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53457"
+  },
+  "name": "cube.003_pionerskaya_4.001_0.001_lev2",
+  "x": -33.52436065673828,
+  "y": 2.4021644592285156,
+  "z": 6.597137451171875,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53458"
+  },
+  "name": "cube.002_pionerskaya_4.001_0.002_lev2",
+  "x": 11,
+  "y": 0.7982686758041382,
+  "z": 1,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53459"
+  },
+  "name": "cube.003_pionerskaya_4.001_0.002_lev2",
+  "x": 4.475637435913086,
+  "y": 2.4021644592285156,
+  "z": 6.597138404846191,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a5345a"
+  },
+  "name": "object_112.002_lev2",
+  "x": 32.04145812988281,
+  "y": -0.19192218780517578,
+  "z": -1,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a5345b"
+  },
+  "name": "baked_lev1_lev2",
+  "x": 65.03361511230469,
+  "y": 0.04231450706720352,
+  "z": 29.149009704589844,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a5345c"
+  },
+  "name": "m_palm_p2_25_leaf_0.002_lev2",
+  "x": 59.408966064453125,
+  "y": 0.6458046436309814,
+  "z": 23.402408599853516,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a5345e"
+  },
+  "name": "coin_structure_detailed_lev1",
+  "x": 4.005804061889648,
+  "y": 1.3172268867492676,
+  "z": 15.909136772155762,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a5345f"
+  },
+  "name": "coin_structure_detailed_lev1",
+  "x": -8.425769827125471,
+  "y": 1,
+  "z": 1.2575127819814043,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53460"
+  },
+  "name": "coin_structure_detailed_lev1",
+  "x": -79.45868504464487,
+  "y": 1,
+  "z": 17.387530405737138,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53461"
+  },
+  "name": "coin_structure_detailed_lev1",
+  "x": 50.192645418566755,
+  "y": 1,
+  "z": -24.06083928217665,
+  "level": 2,
+  "role": "default",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6829f64e422ecd6869a53462"
+  },
+  "name": "coin_structure_diagonal_lev1",
+  "x": 66.74917691507498,
+  "y": 1,
+  "z": 28.957264695511043,
+  "level": 2,
+  "role": "finalPrize",
+  "__v": 0
+}
 ]
